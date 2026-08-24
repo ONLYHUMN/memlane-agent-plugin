@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "memlane": {
+      "url": "https://memlane.app/api/mcp/v1"
+    }
+  }
+}

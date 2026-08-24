@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "memlane",
+  "description": "Search contacts, read notes, move people on Lanes, and work the Queue in Memlane. Needs Memlane Pro and iCloud.",
+  "version": "1.0.0",
+  "author": { "name": "ONLYHUMN LLC" }
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "memlane": {
+      "url": "https://memlane.app/api/mcp/v1",
+      "headers": {
+        "Authorization": "Bearer ${MEMLANE_MCP_TOKEN}"
+      }
+    }
+  }
+}
