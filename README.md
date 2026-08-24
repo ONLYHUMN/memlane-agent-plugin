@@ -1,6 +1,6 @@
-# Memlane for Cursor and Grok Build
+# Memlane agent plugin
 
-Agent plugin for the [Memlane](https://memlane.app) MCP server. Works in **Cursor** (Agent Plugins) and **Grok Build** (xAI plugin catalog via `.mcp.json`).
+Open plugin bundle for the [Memlane](https://memlane.app) MCP server. Works in **Cursor** (Agent Plugins), **Grok Build** (xAI catalog), and any client that reads `mcp.json` or `.mcp.json`.
 
 Memlane is a relationship manager synced with Apple Contacts. Connect Cursor to search and update contacts, read and add notes, move people on [Lanes](https://memlane.app/guides/create-your-first-lane) as you build friendships, work the [Queue](https://memlane.app/guides/use-the-queue) of tasks, and log [promises](https://memlane.app/guides/open-promises). Destructive tools ask for a second yes. Requires [Memlane Pro](https://memlane.app/guides/memlane-pro) and [iCloud](https://memlane.app/guides/connect-icloud).
 
