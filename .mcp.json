@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "memlane": {
+      "type": "http",
+      "url": "https://memlane.app/api/mcp/v1"
+    }
+  }
+}

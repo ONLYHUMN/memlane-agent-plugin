@@ -1,0 +1,17 @@
+{
+  "name": "memlane",
+  "version": "1.0.0",
+  "description": "Memlane relationship manager for Grok — contacts, notes, Lanes, Queue, promises, Meetups, and Map. Needs Memlane Pro and iCloud.",
+  "author": {
+    "name": "ONLYHUMN LLC",
+    "url": "https://memlane.app"
+  },
+  "repository": "https://github.com/ONLYHUMN/memlane-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "memlane",
+    "contacts",
+    "crm",
+    "relationships"
+  ]
+}

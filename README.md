@@ -1,6 +1,6 @@
-# Memlane for Cursor
+# Memlane for Cursor and Grok Build
 
-Cursor Agent Plugin for the [Memlane](https://memlane.app) MCP server.
+Agent plugin for the [Memlane](https://memlane.app) MCP server. Works in **Cursor** (Agent Plugins) and **Grok Build** (xAI plugin catalog via `.mcp.json`).
 
 Memlane is a relationship manager synced with Apple Contacts. Connect Cursor to search and update contacts, read and add notes, move people on [Lanes](https://memlane.app/guides/create-your-first-lane) as you build friendships, work the [Queue](https://memlane.app/guides/use-the-queue) of tasks, and log [promises](https://memlane.app/guides/open-promises). Destructive tools ask for a second yes. Requires [Memlane Pro](https://memlane.app/guides/memlane-pro) and [iCloud](https://memlane.app/guides/connect-icloud).
 
@@ -32,9 +32,15 @@ The server exposes **50 tools** — reads, writes, and guarded deletes. Full lis
 
 ## Install
 
+### Cursor Marketplace
+
 1. Submit or install this plugin from the [Cursor Marketplace](https://cursor.com/marketplace).
 2. Open **Customize → MCPs** in Cursor and enable **Memlane**.
 3. Sign in to Memlane and choose **Allow** when OAuth opens.
+
+### Grok Build
+
+Install from the [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) after the Memlane catalog entry merges. Grok uses OAuth against `https://memlane.app/api/mcp/v1`.
 
 ## Manual setup
 
