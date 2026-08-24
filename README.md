@@ -2,7 +2,21 @@
 
 Cursor Agent Plugin for the [Memlane](https://memlane.app) MCP server.
 
-Memlane is a relationship manager synced with Apple Contacts. Connect Cursor to [search contacts](https://memlane.app/guides/find-and-favorite-contacts), [read notes](https://memlane.app/guides/contact-dossiers), [move people on Lanes](https://memlane.app/guides/create-your-first-lane), [work the Queue](https://memlane.app/guides/use-the-queue), and [log promises](https://memlane.app/guides/open-promises). Destructive tools ask for a second yes. Requires [Memlane Pro](https://memlane.app/guides/memlane-pro) and [iCloud](https://memlane.app/guides/connect-icloud).
+Memlane is a relationship manager synced with Apple Contacts. Connect Cursor to [search contacts](https://memlane.app/guides/find-and-favorite-contacts), [read notes](https://memlane.app/guides/contact-dossiers), [move people on Lanes](https://memlane.app/guides/create-your-first-lane) as you build friendships, [work the Queue](https://memlane.app/guides/use-the-queue) of tasks, and [log promises](https://memlane.app/guides/open-promises). Destructive tools ask for a second yes. Requires [Memlane Pro](https://memlane.app/guides/memlane-pro) and [iCloud](https://memlane.app/guides/connect-icloud).
+
+## What you can do
+
+**Search contacts** — Find people by name, company, email, or phone. Cursor can pull up the right card before it drafts a message or answers a question about someone you know.
+
+**Read notes** — Each contact has a dossier: facts, preferences, significant experiences, and free-form notes. Cursor can summarize what you already wrote so you do not repeat yourself in chat.
+
+**Move people on Lanes** — Lanes are relationship tracks with stages (for example Met → Acquaintance → Friend on a Friendship lane). Cursor can move someone when a conversation shifts the relationship, and Memlane keeps the history.
+
+**Work the Queue** — The Queue holds tasks from your Routines: reach-out nudges, birthday reminders, open promises, Meetup reminders, and more. Cursor can list what is pending and help you act on it.
+
+**Log promises** — Track small commitments you owe or that others owe you, with optional due dates. Cursor can add or close promises so they stay visible until they are done.
+
+**Deletes need your yes** — Tools that remove data return a confirmation summary first. Cursor reads it to you; nothing is deleted until you agree in the chat.
 
 ## Install
 
